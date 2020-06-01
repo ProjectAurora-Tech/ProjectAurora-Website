@@ -21,7 +21,7 @@ copyright = "&copy; Project Aurora {year}"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "myacademic"
+theme = "aurora"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
