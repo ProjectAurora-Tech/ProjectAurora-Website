@@ -1,7 +1,7 @@
 ---
-title: Malhar
-summary: Build a bridge between creative expression, mental well-being and community.
-date: "2020-04-27T00:00:00Z"
+title: Mental Health Research Team
+summary: A research team working with UBC faculty on a study to identify gaps and encourage the creation of new initiatives.
+date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,6 +28,6 @@ image:
 #   slides: example
 ---
 
-A student art collective striving to build a bridge between creative expression, mental well-being and community. The initiative serves to connect artists across UBC to create and promote art which sheds light on mental illness, mental health, and everything in between.
+A team working with UBC faculty on a study of campus mental health in the hopes of identifying gaps in the current system and encouraging the creation of new initiatives to bridge those gaps.
 
-Malhar is a diverse team focused on creativity, design, artistic expression, community-building, and supporting local artists.
+This is a small team consisting of passionate students with significant experience in academic research, survey creation, and student engagement.
