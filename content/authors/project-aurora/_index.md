@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Mental Health Initiatives
+role: 
 
 # Organizations/Affiliations
 #organizations:
@@ -28,6 +28,8 @@ user_groups:
 - admin
 ---
 
-The Project Aurora is a registered non-profit organization aimed at accelerating the creation, growth, and impact of youth-led mental health and well-being initiatives by providing mentorship, connections, administrative/logistical support, and funding. Support is provided to teams of young adults/students working on community mental health projects. Project Aurora strives to ensure that the projects chosen will directly benefit communities in Vancouver facing mental health and well-being challenges. 
+A registered non-profit aimed at accelerating the creation, growth, and impact of youth-led mental health initiatives by providing mentorship, connections, administrative/logistical support, and funding.
 
-The full website is set to be launched in a few months but in the meantime, we are currently recruiting for a few roles on the Project Aurora team itself. If you are a highly motivated individual with a passion for mental health innovation and significant experience in marketing, finance, or sponsorship, we encourage you to apply [here](#careers)!
+We support teams of young adults/students working on community mental health projects. The chosen projects are those that directly impact communities in Vancouver facing mental health and well-being challenges.
+
+Our complete website is currently in progress, but in the meantime, we are recruiting. If you are highly motivated, have a passion for mental health entrepreneurship, and have significant experience in marketing, finance, or sponsorship, we encourage you to apply [here](#careers)!

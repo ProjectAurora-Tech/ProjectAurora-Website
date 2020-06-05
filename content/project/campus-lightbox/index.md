@@ -1,7 +1,7 @@
 ---
 title: Campus Lightbox
 summary: Consolidated information about mental health resources on UBC campus.
-date: "2019-09-01T00:00:00Z"
+date: "2020-06-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

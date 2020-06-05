@@ -10,13 +10,13 @@ subtitle = "Come join us!"
 +++
 ## **Campus Lightbox**
 
-| Job Title            | Descrition                                        | Apply
+| Job Title            | Description                                        | Apply
 | ---------------------| ------------------------------------------------- | ---------
 | Software Engineer    | Full stack web developer with ReactJS experience. | [Click Here](https://hi.com)
 
 ## **Malhar** 
 
-| Job Title      | Descrition                                   | Apply
+| Job Title      | Description                                   | Apply
 | ---------------| -------------------------------------------- | ---------
 | Artist         | Build artistic ideas to raise awareness.     | [Click Here](https://hi.com)
 
