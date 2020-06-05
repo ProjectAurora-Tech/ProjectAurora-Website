@@ -1,6 +1,6 @@
 ---
 title: Mental Health Research Team
-summary: A research team working with UBC faculty on a study to identify gaps and encourage the creation of new initiatives.
+summary: Research team striving to identify gaps and encourage the creation of new initiatives.
 date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

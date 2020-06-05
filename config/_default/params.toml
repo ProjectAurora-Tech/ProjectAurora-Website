@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "admin@projectaurora.ca"
+# email = "admin@projectaurora.ca"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Vancouver", region = "BC", postcode = "", country = "Canada", country_code = "CA"}
+# address = {street = "", city = "", region = "University of British Columbia", postcode = "", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -150,7 +150,7 @@ address_format = "en-us"
 main_menu = {align = "l", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
@@ -164,7 +164,7 @@ sharing = false
 copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
 
 # Link authors to their profile page? (true/false)
-link_authors = true
+link_authors = false
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135

@@ -2,6 +2,7 @@
 title: Malhar
 summary: Build a bridge between creative expression, mental well-being and community.
 date: "2020-04-27T00:00:00Z"
+#authors: [""]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

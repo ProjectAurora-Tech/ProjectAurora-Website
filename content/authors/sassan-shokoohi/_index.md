@@ -4,10 +4,10 @@ title: Sassan Shokoohi
 
 # Username (this should match the folder name)
 authors:
-- admin
+- sassan-shokoohi
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Lead Software Engineer
