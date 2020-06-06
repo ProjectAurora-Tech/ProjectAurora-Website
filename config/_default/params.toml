@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Project Aurora"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "The Project Aurora is a registered non-profit organization aimed at accelerating the creation, growth, and impact of youth-led mental health and well-being initiatives by providing mentorship, connections, administrative/logistical support, and funding. Support is provided to teams of young adults/students working on community mental health projects. Project Aurora strives to ensure that the projects chosen will directly benefit communities in Vancouver facing mental health and well-being challenges."
+description = "A registered non-profit aimed at accelerating the creation, growth, and impact of youth-led mental health initiatives by providing mentorship, connections, administrative/logistical support, and funding."
 
 ############################
 ## Site Features

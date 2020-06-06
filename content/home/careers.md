@@ -8,7 +8,7 @@ weight = 66  # Order that this section will appear.
 title = "Careers"
 subtitle = "Come join us!"
 +++
-## **Campus Lightbox**
+<!-- ## **Campus Lightbox**
 
 | Job Title            | Description                                        | Apply
 | ---------------------| ------------------------------------------------- | ---------
@@ -18,5 +18,6 @@ subtitle = "Come join us!"
 
 | Job Title      | Description                                   | Apply
 | ---------------| -------------------------------------------- | ---------
-| Artist         | Build artistic ideas to raise awareness.     | [Click Here](https://hi.com)
+| Artist         | Build artistic ideas to raise awareness.     | [Click Here](https://hi.com) -->
 
+No opportunities available currently. Check back later!
