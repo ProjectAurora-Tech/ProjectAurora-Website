@@ -8,16 +8,20 @@ weight = 66  # Order that this section will appear.
 title = "Careers"
 subtitle = "Come join us!"
 +++
-<!-- ## **Campus Lightbox**
+ ## **Campus Lightbox**
 
 | Job Title            | Description                                        | Apply
 | ---------------------| ------------------------------------------------- | ---------
-| Software Engineer    | Full stack web developer with ReactJS experience. | [Click Here](https://hi.com)
+| Website admin        | tiny description                                  | [Click Here](https://hi.com)
 
 ## **Malhar** 
 
 | Job Title      | Description                                   | Apply
 | ---------------| -------------------------------------------- | ---------
-| Artist         | Build artistic ideas to raise awareness.     | [Click Here](https://hi.com) -->
+| Artist         | Build artistic ideas to raise awareness.     | [Click Here](https://hi.com)
 
-No opportunities available currently. Check back later!
+## **Research Team** 
+
+| Job Title      | Description                                   | Apply
+| ---------------| -------------------------------------------- | ---------
+| Researcher     | Build artistic ideas to raise awareness.     | [Click Here](https://hi.com)
