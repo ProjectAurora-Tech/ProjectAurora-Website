@@ -10,7 +10,7 @@
 
 [[main]]
   name = "About"
-  url = "#about"
+  url = "#home"
   weight = 20
 
 [[main]]
