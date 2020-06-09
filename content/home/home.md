@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Project Aurora"
+title = "<center>Project Aurora</center>"
 subtitle = ""
 
 [design]
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-   gradient_start = "#fa7767"
-   gradient_end = "#5db5a1"
+  # gradient_start = "#fa7767"
+  # gradient_end = "#5db5a1"
   
   # Background image.
   # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
@@ -36,7 +36,7 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -49,8 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-## Who are we?
 
-The Project Aurora is a registered non-profit organization aimed at accelerating the creation, growth, and impact of youth-led mental health and well-being initiatives by providing mentorship, connections, administrative/logistical support, and funding. Support is provided to teams of young adults/students working on community mental health projects. Project Aurora strives to ensure that the projects chosen will directly benefit communities in Vancouver facing mental health and well-being challenges. 
+A registered non-profit aimed at accelerating the creation, growth, and impact of youth-led mental health initiatives by providing mentorship, connections, administrative/logistical support, and funding.
 
-The full website is set to be launched in a few months but in the meantime, we are currently recruiting for a few roles on the Project Aurora team itself. If you are a highly motivated individual with a passion for mental health innovation and significant experience in marketing, finance, or sponsorship, we encourage you to apply [here](#careers)!
+We support teams of young adults/students working on community mental health projects. The chosen projects are those that directly impact communities in Vancouver facing mental health and well-being challenges.
+
+Our complete website is currently in progress, but in the meantime, we are recruiting. If you are highly motivated, have a passion for mental health entrepreneurship, and have significant experience in marketing, finance, or sponsorship, we encourage you to apply [here](#careers)!
