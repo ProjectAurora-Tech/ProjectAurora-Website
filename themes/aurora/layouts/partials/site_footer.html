@@ -10,7 +10,14 @@
     {{ end }}
   </p>
   {{ end }}
-
+  <p>
+    <a href="https://www.linkedin.com/company/proj-aurora-mental-health-foundation/" target="_blank" rel="noopener">
+      <i class="largeee fab fa-linkedin  pr-1 fa-fw"></i></a>
+    <a href="https://www.instagram.com/proj_aurora/" target="_blank" rel="noopener">
+      <i class="largeee fab fa-instagram  pr-1 fa-fw"></i></a>
+    <a href="https://www.facebook.com/ProjectAurora.BC/" target="_blank" rel="noopener">
+      <i class="largeee fab fa-facebook  pr-1 fa-fw"></i></a>
+  </p>
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
     {{ if not (in (slice "docs" "updates") .Type) }}

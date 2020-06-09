@@ -37,7 +37,7 @@ If you are interested in joining us on this mission to create and support mental
 
 For all other questions, please feel free to reach us here.
 
-## {{< icon name="heart" pack="fas" >}} Social Media
+<!-- ## {{< icon name="heart" pack="fas" >}} Social Media
 
-# [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/company/proj-aurora-mental-health-foundation/)[{{< icon name="instagram" pack="fab" >}}](https://www.instagram.com/proj_aurora/)[{{< icon name="facebook" pack="fab" >}}](https://www.facebook.com/ProjectAurora.BC/)
+# [{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/company/proj-aurora-mental-health-foundation/)[{{< icon name="instagram" pack="fab" >}}](https://www.instagram.com/proj_aurora/)[{{< icon name="facebook" pack="fab" >}}](https://www.facebook.com/ProjectAurora.BC/) -->
 
