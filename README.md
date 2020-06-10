@@ -9,7 +9,7 @@ Our website is currently hosted at [www.projectaurora.ca/](https://www.projectau
 
 ## Tech
 
-Our website uses a the following open source project(s) to work properly:
+Our website uses the following open source project(s) to work properly:
 
 * [Academic](https://github.com/gcushen/hugo-academic) - makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio.
 
