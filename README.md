@@ -3,7 +3,7 @@
 A registered non-profit aimed at accelerating the creation, growth, and impact of youth-led mental health initiatives by providing mentorship, connections, administrative/logistical support, and funding.
 
 
-## Visit Our Website
+## Visit Our Website 
 
 Our website is currently hosted at [www.projectaurora.ca/](https://www.projectaurora.ca/)
 
