@@ -24,7 +24,7 @@ You will see the build errors and lint warnings in the console.
 
 ## Want to contribute?
 
-Check out our [website](https://www.projectaurora.ca/) for current opportunities or send our team an email at [admin@projectaurora.com](mailto:admin@projectaurora.com) for the possibility of joining our team.
+Check out our [website](https://www.projectaurora.ca/#careers) for current opportunities or send our team an email at [admin@projectaurora.com](mailto:admin@projectaurora.com) for the possibility of joining our team.
 
 ## Deploying a new version of the Website
 
