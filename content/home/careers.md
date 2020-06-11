@@ -12,17 +12,17 @@ subtitle = "Come join us!"
 
 | Job Title                 | Description                                       | Apply
 | ---------------------| ------------------------------------------------- | ---------
-| Sponsorship Manager        | Create sponsorship channels and fundraising opportunities [Full](https://drive.google.com/file/d/1CRvDxK955kh4GCSYwIX8mFO3BJ0Z9NXz/view?usp=sharing)                                  | [Click Here](https://hi.com)
+| Sponsorship Manager        | Create sponsorship channels and fundraising opportunities [[Full](https://drive.google.com/file/d/1CRvDxK955kh4GCSYwIX8mFO3BJ0Z9NXz/view?usp=sharing)]                                  | [Click Here](https://hi.com)
 
 
 | Job Title                   | Description                                       | Apply
 | ---------------------| ------------------------------------------------- | ---------
-| Finance Manager        | Oversee the finance operations of PAMHF [Full](https://drive.google.com/file/d/1CRvDxK955kh4GCSYwIX8mFO3BJ0Z9NXz/view?usp=sharing)                              | [Click Here](https://forms.gle/g3Ptckxio442nb6L6)
+| Finance Manager      | Oversee the finance operations of PAMHF [[Full](https://drive.google.com/file/d/1CRvDxK955kh4GCSYwIX8mFO3BJ0Z9NXz/view?usp=sharing)]                              | [Click Here](https://forms.gle/g3Ptckxio442nb6L6)
 
 
 | Job Title                 | Description                                       | Apply
 | ---------------------| ------------------------------------------------- | ---------
-| Marketing Manager       | Implement and execute marketing and promotional plans [Full](https://drive.google.com/file/d/1kRgzEfjK1W0e_oos96MtdRP9sCn8wtz7/view?usp=sharing)                               | [Click Here](https://forms.gle/g3Ptckxio442nb6L6)
+| Marketing Manager    | Implement and execute marketing and promotional plans [[Full](https://drive.google.com/file/d/1kRgzEfjK1W0e_oos96MtdRP9sCn8wtz7/view?usp=sharing)]                               | [Click Here](https://forms.gle/g3Ptckxio442nb6L6)
 
  <!--## **Campus Lightbox**
 
