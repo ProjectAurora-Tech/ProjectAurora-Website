@@ -8,7 +8,7 @@ weight = 66  # Order that this section will appear.
 title = "Careers"
 subtitle = "Come join us!"
 +++
- ## **Project Aurora**
+ ## **Project Aurora (Volunteer)**
 
 | Job Title            | Description                                       | Apply
 | ---------------------| ------------------------------------------------- | ---------
