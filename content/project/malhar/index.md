@@ -32,3 +32,5 @@ image:
 A student art collective striving to build a bridge between creative expression, mental well-being and community. The initiative serves to connect artists across UBC to create and promote art which sheds light on mental illness, mental health, and everything in between.
 
 Malhar is a diverse team focused on creativity, design, artistic expression, community-building, and supporting local artists.
+
+{{< icon name="envelope" pack="fas" >}} [admin@malharproject.ca](mailto:admin@malharproject.ca)

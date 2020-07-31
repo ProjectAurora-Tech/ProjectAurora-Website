@@ -31,3 +31,5 @@ image:
 A team working with UBC faculty on a study of campus mental health in the hopes of identifying gaps in the current system and encouraging the creation of new initiatives to bridge those gaps.
 
 This is a small team consisting of passionate students with significant experience in academic research, survey creation, and student engagement.
+
+{{< icon name="envelope" pack="fas" >}} [mhresearch@projectaurora.ca](mailto:mhresearch@projectaurora.ca)

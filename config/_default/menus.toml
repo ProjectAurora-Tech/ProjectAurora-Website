@@ -18,10 +18,16 @@
   url = "#projects"
   weight = 30
 
-#[[main]]
-#  name = "Members"
-#  url = "#people"
-#  weight = 35
+[[main]]
+  name = "Our Team"
+  url = "#team"
+  weight = 35
+
+[[main]]
+  name = "Project Members"
+  url = "#people"
+  weight = 37
+
 
 [[main]]
   name = "Careers"
