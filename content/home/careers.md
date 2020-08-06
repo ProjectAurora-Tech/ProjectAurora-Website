@@ -8,7 +8,10 @@ weight = 68  # Order that this section will appear.
 title = "Careers"
 subtitle = "Come join us!"
 +++
- ## **Project Aurora (Volunteer)**
+
+We currently are not looking for new hires at the moment. Please come back for new updates, thank you! 
+
+ <!--## **Project Aurora (Volunteer)**
 
 | Job Title            | Description                                       | Apply
 | ---------------------| ------------------------------------------------- | ---------
