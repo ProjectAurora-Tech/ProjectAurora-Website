@@ -44,6 +44,4 @@ Our aims are to:
 Details about the survey questionnaire:
 This is an online survey conducted through the UBC Qualtrics platform and is  approximately 20 minutes long. Participants, after providing consent, will be asked to complete a questionnaire regarding mental health and wellbeing. Upon survey completion, they will be redirected to a prize draw for a chance to win one of five $50 gift card prizes. The prize draw will require  contact information in order to contact prize draw winners. At the end of the study, 5 participants will be randomly drawn from the pool of contact information. There are five $50 gift card prizes, in the form of Amazon, Mastercard, or Visa gift cards. Each participant is only eligible to win one prize. 
 
-If any, please direct all questions about the Project Aurora Mental Health Research team to [mhsurvey@projectaurora.ca](mailto:mhsurvey@projectaurora.ca).
-
-{{< icon name="envelope" pack="fas" >}} [mhresearch@projectaurora.ca](mailto:mhresearch@projectaurora.ca)
+{{< icon name="envelope" pack="fas" >}} [mhsurvey@projectaurora.ca](mailto:mhsurvey@projectaurora.ca)
