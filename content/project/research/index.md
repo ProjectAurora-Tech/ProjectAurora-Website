@@ -35,9 +35,7 @@ About the Mental Health Survey of UBC Students Study:
 Project Aurora is  acutely aware of the fact that detailed data on student mental health is not readily accessible to the UBC community. The Project Aurora Mental Health Research Team works  to change that. This anonymous survey is an opportunity to gather essential descriptive data on student mental health status and experiences, likes and dislikes about support resources on campus, treatment preferences, and facilitators and barriers to help seeking behaviors. There are also several questions on wellbeing and demographics.
 
 
-These survey results help  Project Aurora to better understand the mental health challenges that different UBC student populations face. 
-
-Our aims are to:  
+These survey results help  Project Aurora to better understand the mental health challenges that different UBC student populations face. Our aims are to:  
 Make a profile of student mental health publically accessible to the UBC community 
 
 Engage with on-campus support resources constructively 
