@@ -36,6 +36,7 @@ Project Aurora is  acutely aware of the fact that detailed data on student menta
 
 
 These survey results help  Project Aurora to better understand the mental health challenges that different UBC student populations face. Our aims are to:  
+
 Make a profile of student mental health publically accessible to the UBC community 
 
 Engage with on-campus support resources constructively 
@@ -43,8 +44,6 @@ Engage with on-campus support resources constructively
 Offer evidence-based recommendations to improve existing on-campus resources
 
 Work to improve mental health resource accessibility for the various diverse student communities at UBC 
-
-This is an online survey conducted through the UBC Qualtrics platform and is  approximately 20 minutes long. Participants, after providing consent, will be asked to complete a questionnaire regarding mental health and wellbeing. Upon survey completion, they will be redirected to a prize draw for a chance to win one of five $50 gift card prizes. The prize draw will require  contact information in order to contact prize draw winners. At the end of the study, 5 participants will be randomly drawn from the pool of contact information. There are five $50 gift card prizes, in the form of Amazon, Mastercard, or Visa gift cards. Each participant is only eligible to win one prize. 
 
 
 {{< icon name="envelope" pack="fas" >}} [mhsurvey@projectaurora.ca](mailto:mhsurvey@projectaurora.ca)
