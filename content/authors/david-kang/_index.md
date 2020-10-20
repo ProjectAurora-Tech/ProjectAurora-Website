@@ -22,7 +22,7 @@ organizations:
 interests:
 - Visionary
 - Confident
-- Honest
+- Organized
 
 
 # Organizational groups that you belong to (for People widget)
