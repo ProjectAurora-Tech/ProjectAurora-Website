@@ -54,4 +54,4 @@ A registered non-profit aimed at accelerating the creation, growth, and impact o
 
 We support teams of young adults/students working on community mental health projects. The chosen projects are those that directly impact communities in Vancouver facing mental health and well-being challenges.
 
-Our complete website is currently in progress, but in the meantime, we are recruiting. If you are highly motivated, have a passion for mental health entrepreneurship, and have significant experience in marketing, finance, or sponsorship, we encourage you to apply [here](#careers)!
+If you are highly motivated, have a passion for mental health entrepreneurship, and have significant experience in marketing, finance, or sponsorship, please click  [here](#careers) and see if we are hiring!
