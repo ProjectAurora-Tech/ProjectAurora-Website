@@ -28,6 +28,8 @@ image:
 #   slides: example
 ---
 
+2020 Mental Health Research Survey Link: https://prjaurora.carrd.co
+
 A team working with UBC faculty on a study of campus mental health in the hopes of identifying gaps in the current system and encouraging the creation of new initiatives to bridge those gaps.
 
 Project Aurora is  acutely aware of the fact that detailed data on student mental health is not readily accessible to the UBC community. The Project Aurora Mental Health Research Team works  to change that. This anonymous survey is an opportunity to gather essential descriptive data on student mental health status and experiences, likes and dislikes about support resources on campus, treatment preferences, and facilitators and barriers to help seeking behaviors. There are also several questions on wellbeing and demographics.
