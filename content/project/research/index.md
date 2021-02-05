@@ -13,8 +13,8 @@ image:
 # links:
 # - icon: twitter
 #   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+#   name: Go to here
+#   url: https://ubc.ca1.qualtrics.com/jfe/form/SV_ekvpkIwvrChhjrn
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
@@ -28,7 +28,7 @@ image:
 #   slides: example
 ---
 
-2020 Mental Health Research Survey Link: https://prjaurora.carrd.co
+To take our Mental Health Survey, click [here](https://ubc.ca1.qualtrics.com/jfe/form/SV_ekvpkIwvrChhjrn) or see the 'Research Survey' link at https://prjaurora.carrd.co. To find out more and to view the official study poster of the Mental Health Survey of UBC students, click [here](https://drive.google.com/file/d/1zIzBik2HjkMOBkwj2fLR8bwJbWy3EPHg/view).
 
 A team working with UBC faculty on a study of campus mental health in the hopes of identifying gaps in the current system and encouraging the creation of new initiatives to bridge those gaps.
 
