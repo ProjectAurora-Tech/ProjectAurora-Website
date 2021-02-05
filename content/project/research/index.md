@@ -28,7 +28,7 @@ image:
 #   slides: example
 ---
 
-To take our Mental Health Survey, click [here](https://ubc.ca1.qualtrics.com/jfe/form/SV_ekvpkIwvrChhjrn) or see the 'Research Survey' link at https://prjaurora.carrd.co. To find out more and to view the official study poster of the Mental Health Survey of UBC students, click [here](https://drive.google.com/file/d/1zIzBik2HjkMOBkwj2fLR8bwJbWy3EPHg/view).
+To take our Mental Health Survey, click [here](https://ubc.ca1.qualtrics.com/jfe/form/SV_ekvpkIwvrChhjrn) or see the 'Research Survey' link at https://prjaurora.carrd.co. To find out more and to view the official study poster of the Mental Health Survey of UBC students, click [here](https://drive.google.com/drive/folders/1Zcp3YrreLWlqX1ZwEfAIqw0VyXc6mRL5).
 
 A team working with UBC faculty on a study of campus mental health in the hopes of identifying gaps in the current system and encouraging the creation of new initiatives to bridge those gaps.
 
