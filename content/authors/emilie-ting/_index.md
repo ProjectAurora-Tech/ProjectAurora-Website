@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Qualitative Research Assistant
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
